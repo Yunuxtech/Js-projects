@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-top: 17%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(74, 92, 107);
+}
+
+span {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(74, 92, 107);
+}
+
+button {
+    padding: 7px;
+    margin: 5px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background: rgb(74, 92, 107);
+    color: whitesmoke;
+    border-radius: 4px;
+}
